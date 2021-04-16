@@ -1,0 +1,592 @@
+
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Propertis Loaded
+[main] INFO  Base.TestBase  - Config Propertis Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Xpath, clicked on createbutton_xpath
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Xpath, clicked on createbutton_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Xpath, clicked on createbutton_xpath
+[main] INFO  Base.TestBase  - Xpath, Types In fName_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - Xpath, clicked on createbutton_xpath
+[main] INFO  Base.TestBase  - Xpath, Types In fName_xpath
+[main] INFO  Base.TestBase  - Xpath, Types In lName_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] ERROR Base.TestBase  - Cannot find elements when the selector is null
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] ERROR Base.TestBase  - no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-default"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JO520', ip: '192.168.252.227', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49458}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 34a6c214eab029a5dcaa549ee66a6a6b
+*** Element info: {Using=css selector, value=.btn.btn-default}
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] ERROR Base.TestBase  - no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-default"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JO520', ip: '192.168.252.227', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9a1b4f60473a20bbe7919b15178b6da3
+*** Element info: {Using=css selector, value=.btn.btn-default}
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] ERROR Base.TestBase  - no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-default"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JO520', ip: '192.168.252.227', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d906bf3e12f8d00da7b42c91ec995827
+*** Element info: {Using=css selector, value=.btn.btn-default}
+[main] ERROR Base.TestBase  - no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-default"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JO520', ip: '192.168.252.227', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d906bf3e12f8d00da7b42c91ec995827
+*** Element info: {Using=css selector, value=.btn.btn-default}
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] ERROR Base.TestBase  - no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-default"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JO520', ip: '192.168.252.227', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49619}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0f3a1be5d28038c1da8de22153295ccc
+*** Element info: {Using=css selector, value=.btn.btn-default}
+[main] ERROR Base.TestBase  - no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-default"}
+  (Session info: chrome=89.0.4389.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I0JO520', ip: '192.168.252.227', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49619}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0f3a1be5d28038c1da8de22153295ccc
+*** Element info: {Using=css selector, value=.btn.btn-default}
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
