@@ -605,3 +605,71 @@ Session ID: 0f3a1be5d28038c1da8de22153295ccc
 [main] INFO  Base.TestBase  - ID, Types In email_id
 [main] INFO  Base.TestBase  - ID, Types In pass_id
 [main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - CSS, clicked on BMgrLogbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn_css
+[main] INFO  Base.TestBase  - CSS, Types In fName_css
+[main] INFO  Base.TestBase  - CSS, Types In lName_css
+[main] INFO  Base.TestBase  - CSS, Types In postCode_css
+[main] INFO  Base.TestBase  - CSS, clicked on addCustbtn1_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - CSS, clicked on openAcc_css
+[main] INFO  Base.TestBase  - CSS, Types In custName_css
+[main] INFO  Base.TestBase  - CSS, Types In currency_css
+[main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath

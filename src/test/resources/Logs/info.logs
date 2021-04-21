@@ -628,3 +628,48 @@ Session ID: 0f3a1be5d28038c1da8de22153295ccc
 [main] INFO  Base.TestBase  - CSS, Types In custName_css
 [main] INFO  Base.TestBase  - CSS, Types In currency_css
 [main] INFO  Base.TestBase  - CSS, clicked on processbtn_css
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath
+[main] INFO  Base.TestBase  - Log4J Properties File Configured
+[main] INFO  Base.TestBase  - Or Properties Loaded
+[main] INFO  Base.TestBase  - Config Properties Loaded
+[main] INFO  Base.TestBase  - Chrome Browser Opened
+[main] INFO  Base.TestBase  - ID, Types In email_id
+[main] INFO  Base.TestBase  - ID, Types In pass_id
+[main] INFO  Base.TestBase  - Xpath, clicked on loginbtn_xpath

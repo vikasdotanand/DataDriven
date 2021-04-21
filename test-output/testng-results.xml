@@ -2,25 +2,25 @@
 <testng-results skipped="0" failed="1" total="2" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[<a href =E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_14_58_50_IST_2021.jpg target="_blank">Test Screenshot</a>]]>
+      <![CDATA[<a href =E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_16_00_13_IST_2021.jpg target="_blank">Test Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a href =E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_14_58_50_IST_2021.jpg target="_blank"><img src=E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_14_58_50_IST_2021.jpg width="300" height="300"></img></a>]]>
+      <![CDATA[<a href =E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_16_00_13_IST_2021.jpg target="_blank"><img src=E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_16_00_13_IST_2021.jpg width="300" height="300"></img></a>]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="5296" started-at="2021-04-16T09:28:45Z" finished-at="2021-04-16T09:28:50Z">
+  <suite name="Suite" duration-ms="20105" started-at="2021-04-16T10:29:54Z" finished-at="2021-04-16T10:30:14Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="5296" started-at="2021-04-16T09:28:45Z" finished-at="2021-04-16T09:28:50Z">
+    <test name="Test" duration-ms="20105" started-at="2021-04-16T10:29:54Z" finished-at="2021-04-16T10:30:14Z">
       <class name="TestCases.Login">
-        <test-method status="PASS" signature="setUP()[pri:0, instance:TestCases.Login@74235045]" name="setUP" is-config="true" duration-ms="8234" started-at="2021-04-16T14:58:37Z" finished-at="2021-04-16T14:58:45Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:TestCases.Login@74235045]" name="setUP" is-config="true" duration-ms="10313" started-at="2021-04-16T15:59:43Z" finished-at="2021-04-16T15:59:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:TestCases.Login@74235045]" name="testLogin" duration-ms="401" started-at="2021-04-16T14:58:45Z" data-provider="dp" finished-at="2021-04-16T14:58:46Z">
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:TestCases.Login@74235045]" name="testLogin" duration-ms="436" started-at="2021-04-16T15:59:54Z" data-provider="dp" finished-at="2021-04-16T15:59:54Z">
           <params>
             <param index="0">
               <value>
@@ -36,7 +36,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method status="FAIL" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:TestCases.Login@74235045]" name="testLogin" duration-ms="4461" started-at="2021-04-16T14:58:46Z" data-provider="dp" finished-at="2021-04-16T14:58:50Z">
+        <test-method status="FAIL" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:TestCases.Login@74235045]" name="testLogin" duration-ms="19281" started-at="2021-04-16T15:59:54Z" data-provider="dp" finished-at="2021-04-16T16:00:13Z">
           <params>
             <param index="0">
               <value>
@@ -57,8 +57,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-I0JO520', ip: '192.168.77.227', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50071}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: cacf220834451267063c127ad1dad7e7]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50806}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 95bc5828dc58f79d0bc2dab3c346668a]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
@@ -67,8 +67,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-I0JO520', ip: '192.168.77.227', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50071}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: cacf220834451267063c127ad1dad7e7
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\vikas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50806}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 95bc5828dc58f79d0bc2dab3c346668a
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -113,17 +113,17 @@ Session ID: cacf220834451267063c127ad1dad7e7
           </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
           <reporter-output>
             <line>
-              <![CDATA[<a href =E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_14_58_50_IST_2021.jpg target="_blank">Test Screenshot</a>]]>
+              <![CDATA[<a href =E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_16_00_13_IST_2021.jpg target="_blank">Test Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a href =E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_14_58_50_IST_2021.jpg target="_blank"><img src=E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_14_58_50_IST_2021.jpg width="300" height="300"></img></a>]]>
+              <![CDATA[<a href =E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_16_00_13_IST_2021.jpg target="_blank"><img src=E:\DataDriven\src\test\resources\Screenshots\Fri_Apr_16_16_00_13_IST_2021.jpg width="300" height="300"></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.Login@74235045]" name="tearDown" is-config="true" duration-ms="4140" started-at="2021-04-16T14:58:50Z" finished-at="2021-04-16T14:58:55Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.Login@74235045]" name="tearDown" is-config="true" duration-ms="278" started-at="2021-04-16T16:00:14Z" finished-at="2021-04-16T16:00:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
